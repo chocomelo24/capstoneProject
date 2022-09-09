@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "@vue/cli-service": "^5.0.8",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "global": "^4.4.0",
+    "mysql": "^2.18.1",
+    "serve": "^14.0.1",
+    "vue": "^3.2.39",
+    "vue-router": "^4.1.5",
+    "vue-template-compiler": "^2.7.10",
+    "vuex": "^4.0.2"
+  },
+  "name": "cs_project-front_end",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chocomelo24/cs-project-front-end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chocomelo24/cs-project-front-end/issues"
+  },
+  "homepage": "https://github.com/chocomelo24/cs-project-front-end#readme",
+  "description": "## Project setup ``` npm install ```"
+}
